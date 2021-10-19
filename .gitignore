@@ -1,0 +1,4 @@
+polls/__pycache__/*
+simpleadmin/__pycache__/*
+db.sqlite3
+tutorial-env
